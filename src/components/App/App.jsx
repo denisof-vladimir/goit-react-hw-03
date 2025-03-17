@@ -48,7 +48,6 @@ function App() {
     phoneItem.name.toLowerCase().includes(inputSearch.toLowerCase())  );
 
   // console.log("filteredPhoneBook:", filteredPhoneBook);
-   
   
   return (
     <>
